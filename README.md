@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/piyush123.png" width="150" height="150" style="border-radius:50%" alt="Piyush's GitHub profile picture" />
+  <img src="https://github.com/PiyushDhadse.png" width="150" height="150" style="border-radius:50%" alt="Piyush's GitHub profile picture" />
 </p>
 
 ---
