@@ -55,26 +55,24 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const piyush = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "Python", "C++", "HTML/CSS"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    hardware: ["ESP32", "Arduino", "Raspberry Pi"],
-    tools: ["Git", "Docker", "VS Code", "Postman"]
-  },
-  focus: [
-    "System Optimization",
-    "Full-Stack Development", 
-    "Creative Engineering",
-    "Prompt Engineering",
-    "Digital Art Workflows"
-  ],
-  motto: "Build efficient solutions for complex problems"
-};
-```
+<div align="center">
+
+🎯 **System Optimizer** | 💻 **Full-Stack Developer** | 🔧 **Creative Engineer**
+
+</div>
+
+<br>
+
+| 🔹 | About |
+|:---:|:---|
+| 😄 | **Pronouns:** He / Him |
+| 💻 | **Languages:** JavaScript, Python, C++, HTML/CSS |
+| 🎨 | **Frontend:** React, Next.js, Tailwind CSS |
+| ⚙️ | **Backend:** Node.js, Express, MongoDB |
+| 🔌 | **Hardware:** ESP32, Arduino, Raspberry Pi |
+| 🛠️ | **Tools:** Git, Docker, VS Code, Postman |
+| 🚀 | **Focus:** System Optimization, Full-Stack Development, Prompt Engineering |
+| 💡 | **Motto:** *"Build efficient solutions for complex problems"* |
 
 <br>
 
