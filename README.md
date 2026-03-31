@@ -1,106 +1,143 @@
-<!-- HEADER: Animated Wave + Typing Effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00F7FF&text=PIYUSH%20DHADSE&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=System%20Optimizer%20%7C%20Creative%20Engineer&descSize=20&descAlignY=60&descAlign=50" width="100%" />
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=Piyush%20Dhadse&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-  <br />
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Software+Developer;UI%2FUX+Focused+Builder;AI+%26+Data+Science+Student;Shipping+Real+World+Systems" />
+</p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Distraction-Free+Workflows;Data+Analytics+%26+Visualization;IoT+%26+Embedded+Systems;Full-Stack+Engineering" alt="Typing SVG" />
+---
+
+## ⚡ Who I Am
+
+- Building **production-ready frontend systems**
+- Designing **usable, not decorative UI**
+- Working on **real-world products (UrbanFur, AyLark)**
+- Focused on **performance, scalability, and clean architecture**
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mongodb,postgres,sqlite&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode&theme=dark" />
+</p>
+
+---
+
+# 🚀 Featured Work
+
+## 🏥 Medyvia
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushDhadse&repo=Medyvia&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true"/> -->
+</p>
+
+- Healthcare system with **auth + dashboard**
+- Built for **real usability, not demo-level UI**
+
+---
+
+## 🔗 Shortly
+
+<p align="center">
+  <img src="https://piyushdhadse.github.io/project1.png"/>
+</p>
+
+- Full-stack URL shortener
+- Includes **analytics dashboard**
+
+🌐 https://url-shortner-umber-one.vercel.app/
+
+---
+
+## 🐾 NGO Admin Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushDhadse&repo=RiseForTails&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true"/>
+</p>
+
+- RBAC system
+- 100+ records managed
+- Replaced manual workflows
+
+---
+
+## 📊 Proof of Work
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushDhadse&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PiyushDhadse&theme=black-ice&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushDhadse&bg_color=000000&color=ffffff&line=ffffff&point=888888&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-1370%2B%20(2★)-000000?style=for-the-badge&logo=codechef"/>
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-000000?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/HackerRank-4%20Badges-000000?style=for-the-badge&logo=hackerrank"/>
+</p>
+
+---
+
+## ⚙️ Current Direction
+
+- System Design (real systems, not theory)
+- UI Engineering (performance-first)
+- Data-driven applications
+
+---
+
+## 📡 Connect
+
+<p align="center">
+  <a href="mailto:dhadsepiyush54@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
   </a>
-</div>
 
-<div align="center">
-  <img src="https://github.com/PiyushDhadse.png" width="150" height="150" style="border-radius: 50%;" />
-</div>
+  <img width="25"/>
 
-<br>
+  <a href="https://www.linkedin.com/in/piyush-dhadse-7269bb32b/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+  </a>
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack & Analytics
+  <img width="25"/>
 
-<div align="center">
+  <a href="https://github.com/PiyushDhadse">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+  </a>
+</p>
 
-| **Core & Web** | **Data & Analytics** | **Systems** |
-| :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) <br> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+---
 
-</div>
+## 🐍 Contribution Snake
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PiyushDhadse/PiyushDhadse/output/snake.svg" />
+</p>
 
-<!-- ABOUT ME -->
-## 👨‍💻 About Me
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Technical Expertise</h3>
-      <ul>
-        <li>Building distraction-free, efficient workflows</li>
-        <li>**Data Analytics** & Excel Automation</li>
-        <li>Full-stack development & scalable databases</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 Current Focus</h3>
-      <ul>
-        <li>Creative prompt engineering</li>
-        <li>Data visualization techniques</li>
-        <li>Networking & cloud models</li>
-        <li>Scalable SaaS solutions</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 👁️ Visitors
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PiyushDhadse&color=000000&style=flat"/>
+</p>
 
-<!-- STATS SECTION -->
-<div align="center">
-  
-## 📊 GitHub Analytics
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PiyushDhadse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushDhadse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- CONNECT SECTION -->
-## 📫 Connect With Me
-
-<div align="center">
-  
-<a href="mailto:dhadsepiyush54@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF&color=0D1117"/>
-</a>
-<a href="https://piyushdhadse.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=00F7FF&color=0D1117"/>
-</a>
-<a href="https://www.linkedin.com/in/piyush-dhadse-7269bb32b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF&color=0D1117"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- FOOTER: Animated Wave -->
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,100:00F7FF&fontSize=0" width="100%" />
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PiyushDhadse&color=00F7FF&style=flat-square)
-
-⭐ *"Efficiency is doing things right; effectiveness is doing the right things."*
-
-</div>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer"/>
+</p>
