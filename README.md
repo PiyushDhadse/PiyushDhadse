@@ -12,7 +12,7 @@
 
 ## ⚡ Who I Am
 
-- Building **production-ready frontend systems**
+- Building **production-ready Full Stack systems using web3**
 - Designing **usable, not decorative UI**
 - Working on **real-world products (UrbanFur, AyLark)**
 - Focused on **performance, scalability, and clean architecture**
