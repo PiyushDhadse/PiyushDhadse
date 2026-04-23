@@ -58,7 +58,7 @@
 ## 🐾 NGO Admin Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushDhadse&repo=RiseForTails&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true"/>
+  <img src="/ngodashboard.png"/>
 </p>
 
 - RBAC system
