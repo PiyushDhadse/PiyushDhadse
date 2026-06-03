@@ -21,11 +21,7 @@
 
 ## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mongodb,postgres,sqlite&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,figma,vscode&theme=dark" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express&theme=dark" /><br/><br/> <img src="https://skillicons.dev/icons?i=python,java,cpp,mongodb,postgres,sqlite&theme=dark" /><br/><br/> <img src="https://skillicons.dev/icons?i=git,figma,vscode&theme=dark" /><br/><br/> <img src="https://skillicons.dev/icons?i=django,flutter,reactnative,fastapi,pytorch,tensorflow&theme=dark" /><br/><br/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> </p>
 
 ---
 
